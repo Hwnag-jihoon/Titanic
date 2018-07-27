@@ -1,5 +1,4 @@
-# worldcup2018
-Machine Learning project on Titanic Disaster
+# Machine Learning project on Titanic Disaster
 Kaggle: https://www.kaggle.com/c/titanic
 
 using python 
